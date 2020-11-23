@@ -25,7 +25,7 @@ import org.achartengine.renderer.XYMultipleSeriesRenderer;
 import org.achartengine.renderer.XYSeriesRenderer;
 //import com.situ.model.Accelerate_info;
 
-
+//試試看Push到GitHub
 
 
 public class AccelActivity extends Activity{
