@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALinearChart</string>
+    <string name="x_axis">X軸</string>
+    <string name="y_axis">Y軸</string>
+    <string name="z_axis">Z軸</string>
+    <string name="sum">和標量</string>
+</resources>
