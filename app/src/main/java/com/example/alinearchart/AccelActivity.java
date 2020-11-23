@@ -26,6 +26,7 @@ import org.achartengine.renderer.XYSeriesRenderer;
 //import com.situ.model.Accelerate_info;
 
 //試試看Push到GitHub
+//再試試看Commit功能
 
 
 public class AccelActivity extends Activity{
